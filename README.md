@@ -13,5 +13,5 @@ The goal is straightforward: survive each wave, defeat the enemies, and keep goi
 
 ## Screenshots
 
-![Uploading Screenshot 2026-08-27 011123.png…]()
+<img width="1919" height="1079" alt="Screenshot 2026-08-27 011123" src="https://github.com/user-attachments/assets/bd239157-e5b0-4c33-b245-418dc9d7a717" />
 
